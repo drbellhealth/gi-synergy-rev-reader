@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://drbellhealth.github.io/gi-synergy-rev-reader/sitemap.xml

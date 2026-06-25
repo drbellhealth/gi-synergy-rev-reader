@@ -1,1 +1,0 @@
-# gi-synergy-rev-reader
